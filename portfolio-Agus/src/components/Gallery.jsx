@@ -23,7 +23,7 @@ const photos = [
     { id: 20, src: "/images/Workshop_5.jpg", category: "Workshop" },
     { id: 21, src: "/images/Workshop_6.jpg", category: "Workshop" },
 ];
-const categories = ["Todos", "Exclusive", "Elegant", "Tematic", "Polas", "Workshop"];
+const categories = ["Todos", "Exclusive", "Elegant", "Tematic", "Polas", "Workshop Zyra"];
 
 const Gallery = () => {
     const [activeCategory, setActiveCategory] = useState("Todos");
