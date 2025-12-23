@@ -38,7 +38,7 @@ const Hero = () => {
             </div>
 
             {/* 5. REDES SOCIALES (Flotantes) */}
-            <div className="absolute bottom-12 left-12 md:flex gap-6 z-10">
+            <div className="absolute bottom-12 left-12 md:flex sm:flex gap-6 z-10">
                 <a href="https://instagram.com/aixabacur" target="_blank" rel="noreferrer" className="text-white/80 hover:text-white hover:scale-110 transition-all">
                     <Instagram size={24} strokeWidth={1.5} />
                 </a>
